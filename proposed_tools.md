@@ -46,6 +46,32 @@ Github Link
 https://github.com/hklarner/NuSMV-a/tree/master/NuSMV-2.6.0/NuSMV
 
 
+6. DroidBot (testing/Debugging)
+
+Paper
+Li, Yuanchun, et al. "DroidBot: a lightweight UI-guided test input generator for Android." Proceedings of the 39th International Conference on Software Engineering Companion. IEEE Press, 2017.
+
+Github Link
+https://github.com/honeynet/droidbot
+
+
+7. SrcML
+
+Paper
+Decker, Michael John, et al. "A Tool for Efficiently Reverse Engineering Accurate UML Class Diagrams." Software Maintenance and Evolution (ICSME), 2016 IEEE International Conference on. IEEE, 2016.
+
+Github Link
+https://github.com/srcML/srcUML
+
+[[SrcML] not open source - http://www.srcml.org/tools.html]
+
+8. HiperGate
+
+Paper : PAKME built on HiperGate
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4273351
+
+Source code:
+http://svn.code.sf.net/p/hipergate/code/
 
 
 
