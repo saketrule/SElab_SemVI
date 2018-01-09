@@ -73,11 +73,16 @@ http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4273351
 Source code:
 http://svn.code.sf.net/p/hipergate/code/
 
+9. FOREPOST:A Tool For Detecting Performance Problems with Feedback-Driven Learning Software Testing
 
+Link for source code: http://www.cs.wm.edu/semeru/data/ICSE16-FOREPOST/
 
-[NOT OPEN SOURCE]
-1. BigDebug  (testing/debugging)
-Paper
-Gulzar, Muhammad Ali, et al. "Bigdebug: Interactive debugger for big data analytics in apache spark." Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering. ACM, 2016.
+10. JetUML: Simple UML diagramming tool
+
+Github link: https://github.com/prmr/JetUML
+
+11. DiffCat:A tool for detecting non-esential differences in the revision histories of software systems.
+
+Github link:http://cs.mcgill.ca/~swevo/diffcat/
 
 
