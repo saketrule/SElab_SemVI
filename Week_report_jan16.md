@@ -18,4 +18,6 @@ Quantized, the key points were
 
 ### Discussions/Issues
 
+We have to look at alternate possibilities instead of Paprika.
+Proper extensions to ARCADE can be decided after hands on experience with the tool
 
