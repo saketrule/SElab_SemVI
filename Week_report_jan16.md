@@ -5,8 +5,9 @@ Our main goal last week was to find existing research in both domains, explore t
 
 ### Accomplishments
 We sucessfully completed last week's tasks,
-Overleaf link to [Proposed tools and research overview] (https://www.overleaf.com/13226372zyhdhrkqyqmm#/50905821/)
+Overleaf link to [Proposed tools and research overview](https://www.overleaf.com/13226372zyhdhrkqyqmm#/50905821/)
 
+Link to : [Evaluated tools](https://github.com/saketrule/SElab_SemVI/blob/master/proposed_tools.md)
 
 ### Next Week's Goals
 
