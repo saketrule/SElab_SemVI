@@ -10,7 +10,9 @@ Overleaf link to [Proposed tools and research overview] (https://www.overleaf.co
 
  Link to [Explored Tools] (
 
+Overleaf link to [Proposed tools and research overview](https://www.overleaf.com/13226372zyhdhrkqyqmm#/50905821/)
 
+Link to : [Evaluated tools](https://github.com/saketrule/SElab_SemVI/blob/master/proposed_tools.md)
 ### Next Week's Goals
 
 Quantized, the key points are
@@ -21,4 +23,6 @@ Quantized, the key points are
 
 ### Discussions/Issues
 
+We have to look at alternate possibilities instead of Paprika.
+Proper extensions to ARCADE can be decided after hands on experience with the tool
 
