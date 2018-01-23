@@ -1,7 +1,13 @@
+# WSR - Weekly Status report
+
 This document contains the weekly status report and indivisual contributions log for all weeks.
 
+1. [Week 1](#week-1)
+2. [Week 2](#week-2)
+3. [Week 3](#week-3)
 
-## WEEK 1
+
+## WEEK-1
 The first week - The project was introduced. This week, we want to
 1. Research the domains of Testing and Architecture design
 2. Explore tools in the domain
@@ -9,7 +15,7 @@ The first week - The project was introduced. This week, we want to
 
 Since the goals this week are exploratory, we are not assigning time deadlines.
 
-## WEEK 2
+## WEEK-2
 
 ### Previous Week's Goals:
 Our main goal last week was to find existing research in both domains, explore tools, and propose 2 tools for extension.
@@ -34,7 +40,7 @@ We have to look at alternate possibilities instead of Paprika.
 Proper extensions to ARCADE can be decided after hands on experience with the tool
 
 
-## Week 3
+## Week-3
 
 Briefly, the key plan decided last week included:
 1. Running ARCADE. 
