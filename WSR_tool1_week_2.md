@@ -33,7 +33,7 @@ Briefly, the key plan decided last week included:
 1. Running ARCADE. 
 2. Finding how to change Paprika/ looking for alternatives.
 
-Below is a log of activities performed for each user
+Below is a log of activities performed for each user, along with the time spent for each activity
 
 ### Saket
 1. Eclipse installed
@@ -41,5 +41,17 @@ Below is a log of activities performed for each user
 3. Tried ACDC Smell detecter on httpd project
 4. Went through most of the documentation
 5. Went through 2 papers
-	i. https://arxiv.org/pdf/1704.04798.pdf 
-	ii. http://shahbazian.me/papers/msr.pdf
+	i. https://arxiv.org/pdf/1704.04798.pdf (https://arxiv.org/pdf/1704.04798.pdf)
+	ii. http://shahbazian.me/papers/msr.pdf (An Empirical Study of Architectural Change
+in Open-Source Software Systems)
+
+### Varnika
+1. Tried running Paprika
+2. Went through source code to evaluate how anti-patterns and code-smells are implemented
+3. Had some trouble navigating the source code, maybe needs a class diagram! :)
+
+
+
+### Akash
+1. Looked at alternatives to Paprika.
+2. Went through source code of Paprika with Varnika, to see implementation details
