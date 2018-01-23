@@ -2,11 +2,9 @@
 
 This document contains the weekly status report and indivisual contributions log for all weeks.
 
-[Week 1](##Week-1)
-
-[Week 2](##Week-2)
-
-[Week 3](##Week-3)
+1. [Week 1](##week-1)
+2. [Week 2](##week-2)
+3. [Week 3](##week-3)
 
 
 ## WEEK-1
