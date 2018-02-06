@@ -67,5 +67,70 @@ for the next meeting is:
 1. Decide on how to proceed with the second (Testing tool)
 2. Discuss extensions for the ARCADE tool
 
+### What we did this week:
+
+| Developer | Task log | Time spent(hours) |
+|:----------|:---------|:-----------|
+| Vernika | Working on getting Paprika to work | 3 |
+| Akash | Working on getting Paprika to work | 2 |
+| Akash | Tried to find alternate tools to replace Paprika | 2 |
+| Saket | Tried resolving bugs in Paprika | 3 |
+
 ### Goals for next week
 We will decide the goals for next week after a team meeting
+
+| Task | Developer | Time |
+|:-------|:----------|:----------|
+|Last attempt at resolving Paprika bug | Saket | 1 day |
+| Find an alternate to Paprika | Varnika, Akash | 1 day |
+| Report/ Team meeting with the following scenarios | | Thursday |
+| | | |
+| `(If successful)` | | |
+| Get working extension of Paprika | Saket, Varnika, Akash | Tuesday |
+| Try arcade on Android | Saket | Tuesday |
+| | | |
+| `(If unsuccessful)` | | |
+| Replace project, discuss extensions | | Tuesday |
+| Try arcade on Android | Saket | Tuesday |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Week-4
+
+Overall, the progress this week:
+
+1. We have been unsuccessfully trying to run Paprika.
+2. We are in contact with the principal developer, Geoffrey Hecht and have been working with him to resolve the bug. We think bug resolution itself might be a contribution.
+3. We are considering replacing Paprika if it still fails. These conditions are unforeseeable.
+
+Here is our proposed plan for next week:
+
+
+
+
+
