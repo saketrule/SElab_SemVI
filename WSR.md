@@ -137,4 +137,30 @@ Here is our proposed plan for next week:
 ---------------------------
 
 
+## Week-5
+
+We successfully executed our plan from week 4. The progress is summarized as below:
+
+1. We switched from Paprika to Smelly-cat, a tool to identify code metrics and smells in android code.
+2. We analyzed the source code of smelly-cat, sucessfully ran it.
+3. Refactored result template to separate css, javascript, modularize code
+4. Changed API interface of smelly-cat to include a `-v` option, for comparing different versions.
+5. Developed and integrated a new package to source-code, which outputs html file for version comparison.
+6. We plan to extend this to integrate it with a git system, allow for data cashing.
+
+Developer-wise summary of what we did:
+
+| Developer | Task log | Time spent(hours) |
+|:----------|:---------|:-----------|
+| Varnika, Akash | Proposed paprika tool, possible extensions on analysis | 3 |
+| Varnika, Akash | Documented code structure, to properly extend the tool | 1 |
+| Saket, Varnika, Akash | Modified output template file | 2 |
+| Saket, Varnika, Akash | Added the `-v` option, code to compare multiple versions | 2 |
+| Saket, Varnika, Akash | Developed package for modified output template | 2 |
+| Saket, Varnika, Akash | Added javascript logic, changing the html template file | 3 |
+
+Plans for next week:
+1. We'll integrate the project with a `-g git ` option for version control.
+
+
 
